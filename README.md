@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasin Maldar</h1>
-<h3 align="center">Aspiring Software Developer || Learning Entry Level Programming || Experience with C++ , Java , HTML5 ,CSS ,JavaScript || Passionate Android App Developer ||</h3>
+<h3 align="center">Aspiring Software || Developer Web Development Enthusiast || Bridging Tech and Creativity || Learning React || Experience with C++ , Java, HTML5, CSS3, JavaScript, ,ReactJS||</h3>
 
 <img align="right" alt="coading" width= "400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
