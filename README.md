@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasin Maldar</h1>
-<h3 align="center">Aspiring Software || Developer Web Development Enthusiast || Bridging Tech and Creativity || Learning React || Experience with C++ , Java, HTML5, CSS3, JavaScript, ,ReactJS||</h3>
+<h3 align="center">"Computer Engineering Undergraduate | Full-Stack Web Developer Intern | Skilled in MERN Stack, TailwindCSS, API Development, and Database Management | Passionate About Innovative Solutions and Continuous Learning"</h3>
 
 <img align="right" alt="coading" width= "400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
